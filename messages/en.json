@@ -520,7 +520,10 @@
     "og_image_alt": "ScoutOff — Decentralized Football Scouting on Stellar"
   },
   "offline": {
-    "bannerMessage": "You're offline. Some features may be unavailable until your connection returns."
+    "bannerMessage": "You're offline. Some features may be unavailable until your connection returns.",
+    "fallback_heading": "You're offline",
+    "fallback_body": "This page wasn't cached on your device. Please reconnect to the internet and try again, or navigate to a page you've visited before.",
+    "fallback_retry": "Try again"
   },
   "service_worker_update_banner": {
     "title": "New version available.",
